@@ -1,14 +1,8 @@
 import os
 import numpy as np
-
 import zipfile as zf
 import re
 import pandas as pd
-	
-
-
-
-
 
 
 def unzip_file(file):
